@@ -1,0 +1,7 @@
+C:\Users\3TEP\skouly\OOP\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\3TEP\skouly\OOP\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\3TEP\skouly\OOP\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\3TEP\skouly\OOP\Queue\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\3TEP\skouly\OOP\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\3TEP\skouly\OOP\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\3TEP\skouly\OOP\Queue\Queue\obj\Debug\Queue.pdb
